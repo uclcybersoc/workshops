@@ -2,6 +2,13 @@
 
 This document is designed to help you set up everything you need to participate in CTF competitions. Whether you're a beginner just starting out or already experienced, this guide provides instructions to prepare your system for solving a wide range of cyber security challenges.
 
+## Overview
+
+- [Linux](#linux)
+- [Python Environments](#python-environments)
+- [Docker](#docker)
+- [Tools by Category](#tools)
+
 ## Linux
 
 ### Linux VM - Windows
