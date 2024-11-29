@@ -1,6 +1,6 @@
 # Installation Guide
 
-This document is designed to help you set up everything you need to participate in CTF competitions. Whether you're a beginner just starting out or already experienced, this guide provides instructions to prepare your system for solving a wide range of cyber security challenges.
+This document is designed to help you set up everything you need to participate in CTF competitions. It provides instructions to prepare your system for solving a wide range of cyber security challenges.
 
 ## Overview
 
@@ -49,7 +49,7 @@ https://docs.microsoft.com/en-us/windows/wsl/install
 
 ## Python Environments
 
-Python environments, are isolated spaces where you can install and manage Python packages independently of your system's default Python setup. They are useful for CTFs because many challenges require specific libraries or tools, which might conflict with global installations. Using environments ensures that your dependencies are contained and can be easily reset or tailored for different tasks.
+Python environments are isolated spaces where you can install and manage python packages independently of your system's default python setup. They are useful for CTFs because many challenges require specific libraries or tools, which might conflict with global installations. Using environments ensures that your dependencies are contained and can be easily reset or tailored for different tasks.
 
 There’s a lot of different tools, such as pyenv, venv, pipx, conda, etc.
 
