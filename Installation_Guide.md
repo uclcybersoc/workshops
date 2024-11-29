@@ -38,7 +38,14 @@ https://docs.microsoft.com/en-us/windows/wsl/install
 
 ### Linux VM - Mac
 
-1. [TODO]
+1. Download UTM: https://mac.getutm.app/
+2. Install UTM: go to your Downloads folder, open the .dmg file for UTM, and drag the UTM icon into your Applications folder
+3. Download a Linux image: https://mac.getutm.app/gallery/kali-2023
+4. Extract the image
+5. Open UTM from Applications or Spotlight search
+6. Create a new VM: click “Open…” at the bottom under “Existing,” and select the .utm file
+7. Launch
+
 
 ## Python Environments
 
